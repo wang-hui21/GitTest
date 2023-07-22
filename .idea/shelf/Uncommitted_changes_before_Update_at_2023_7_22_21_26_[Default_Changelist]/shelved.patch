@@ -1,0 +1,130 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"JavaScriptSettings\">\r\n    <option name=\"languageLevel\" value=\"ES6\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 31e63d7fd242ccdfb8998a3198423646ed164b89)
++++ b/.idea/misc.xml	(date 1689668004365)
+@@ -3,4 +3,7 @@
+   <component name="JavaScriptSettings">
+     <option name="languageLevel" value="ES6" />
+   </component>
++  <component name="PyCharmProfessionalAdvertiser">
++    <option name="shown" value="true" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f626b4d0-d57a-411b-9d1e-01a0e2deea6a\" name=\"Default Changelist\" comment=\"series\">\r\n      <change beforePath=\"$PROJECT_DIR$/test.py\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task id=\"LOCAL-00001\" summary=\"series\">\r\n      <created>1689648861193</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1689648861193</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"series\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"series\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 31e63d7fd242ccdfb8998a3198423646ed164b89)
++++ b/.idea/workspace.xml	(date 1690032315563)
+@@ -1,14 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="f626b4d0-d57a-411b-9d1e-01a0e2deea6a" name="Default Changelist" comment="series">
+-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
++    <list default="true" id="f626b4d0-d57a-411b-9d1e-01a0e2deea6a" name="Default Changelist" comment="series DataFrame">
++      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Python Script" />
++      </list>
++    </option>
++  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+@@ -20,7 +29,63 @@
+       <option name="project" value="LOCAL" />
+       <updated>1689648861193</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="series">
++      <created>1689667809156</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1689667809156</updated>
++    </task>
++    <task id="LOCAL-00003" summary="series">
++      <created>1689667876585</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1689667876585</updated>
++    </task>
++    <task id="LOCAL-00004" summary="series">
++      <created>1689668039598</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1689668039598</updated>
++    </task>
++    <task id="LOCAL-00005" summary="series">
++      <created>1689668105103</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1689668105103</updated>
++    </task>
++    <task id="LOCAL-00006" summary="series DataFrame">
++      <created>1690032021692</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1690032021692</updated>
++    </task>
++    <task id="LOCAL-00007" summary="series DataFrame">
++      <created>1690032139388</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1690032139388</updated>
++    </task>
++    <task id="LOCAL-00008" summary="series DataFrame">
++      <created>1690032199424</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1690032199424</updated>
++    </task>
++    <task id="LOCAL-00009" summary="series DataFrame">
++      <created>1690032306477</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1690032306477</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -37,6 +102,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="series" />
+-    <option name="LAST_COMMIT_MESSAGE" value="series" />
++    <MESSAGE value="series DataFrame" />
++    <option name="LAST_COMMIT_MESSAGE" value="series DataFrame" />
+   </component>
+ </project>
+\ No newline at end of file
